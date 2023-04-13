@@ -1,0 +1,43 @@
+body{background-color: black;}
+
+.img1{position: relative;
+    height: 300px;
+bottom: -150px;}
+
+.img2{position: relative;
+    height:300px;
+    bottom: -400px;}
+
+.img3{position: relative;
+    height: 300px;
+    bottom: -300px;
+left: 10px;}
+
+.img4{position: relative;
+    height: 300px;
+    bottom: -100px;
+left: 30px;}
+
+
+
+    h2{color: aliceblue;
+        position: relative;
+    
+        font-size: 50px;
+        text-align: center;
+    top: -350px;}
+        
+        footer img{width: 30px;position:relative;bottom: -450px;
+            text-align: center;
+        left: 700px;}
+
+        nav{color: rgb(255, 255, 255); font-size: 20px;position: relative;left: 400px;}
+
+
+
+   
+
+        
+
+       
+
